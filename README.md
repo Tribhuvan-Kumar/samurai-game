@@ -1,6 +1,6 @@
 # Fighting Game
 
-A simple two-player fighting game built using HTML5 Canvas and JavaScript. Players can control their characters, perform attacks, and compete against each other. The game includes health bars, attack animations, and a timer to determine the winner.
+A simple two-player fighting game built using HTML5 and JavaScript. Players can control their characters, perform attacks, and compete against each other. The game includes health bars, attack animations, and a timer to determine the winner.
 
 ## Preview
 

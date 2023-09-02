@@ -4,13 +4,13 @@ A simple two-player fighting game built using HTML5 and JavaScript. Players can 
 
 ## Preview
 
-![App Screenshot] <img src='./img/screenshots/idle.png'>
+<img src='./img/screenshots/idle.png'>
 
-![App Screenshot] <img src='./img/screenshots/jump.png'>
+<img src='./img/screenshots/jump.png'>
 
-![App Screenshot] <img src='./img/screenshots/player 1 wins.png'>
+<img src='./img/screenshots/player 1 wins.png'>
 
-![App Screenshot] <img src='./img/screenshots/player 2 wins.png'>
+<img src='./img/screenshots/player 2 wins.png'>
 
 ## Table of Contents
 
